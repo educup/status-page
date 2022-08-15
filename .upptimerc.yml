@@ -30,7 +30,7 @@ status-website:
   cname: status.educup.io
   logoUrl: https://educup.com/images/vilin.ico
   favicon: https://educup.com/images/vilin.ico
-  theme: night
+  theme: ocean
 
 i18n:
   footer: ""
