@@ -6,19 +6,19 @@ skipTopicsUpdate: false
 skipHomepageUpdate: false
 
 sites:
-  - name: Educup Website
+  - name: EducUp Website
     url: https://www.educup.com
-  - name: Educup Admin
+  - name: EducUp Admin
     url: https://admin.educup.io
-  - name: Educup Apps
+  - name: EducUp Apps
     url: https://apps.educup.io
-  - name: Educup API 
+  - name: EducUp API 
     url: https://api.educup.io/health
-  - name: Educup Tutors API 
+  - name: EducUp Tutors API 
     url: https://tutorsapi.educup.io/health
-  - name: Educup Studio API 
+  - name: EducUp Studio API 
     url: https://studioapi.educup.io/health
-  - name: Educup Extenal API
+  - name: EducUp Extenal API
     url: https://externalapi.educup.io/health
     
 assignees:
@@ -26,7 +26,7 @@ assignees:
   - leynier
 
 status-website:
-  name: Educup Status
+  name: EducUp Status
   cname: status.educup.io
   logoUrl: https://educup.com/images/vilin.ico
   favicon: https://educup.com/images/vilin.ico
