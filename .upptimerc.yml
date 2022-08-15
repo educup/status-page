@@ -20,6 +20,8 @@ sites:
     url: https://studioapi.educup.io/health
   - name: EducUp Extenal API
     url: https://externalapi.educup.io/health
+  - name: EducUp Test URL
+    url: https://api.educup.io
     
 assignees:
   - rmarticedeno
