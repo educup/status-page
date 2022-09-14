@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 457,
-    "timeWeek": 307,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 289,
+    "timeDay": 179,
+    "timeWeek": 269,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 355,
-    "timeDay": 560,
-    "timeWeek": 414,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 342,
+    "timeDay": 141,
+    "timeWeek": 344,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2022-08-23": 26
     }
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/apps.educup.io",
     "slug": "educ-up-apps",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 779,
-    "timeDay": 4103,
-    "timeWeek": 1678,
-    "timeMonth": 779,
-    "timeYear": 779,
-    "dailyMinutesDown": {
-      "2022-09-12": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 747,
+    "timeDay": 256,
+    "timeWeek": 1609,
+    "timeMonth": 747,
+    "timeYear": 747,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EducUp API",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 303,
-    "timeWeek": 256,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 209,
+    "timeDay": 153,
+    "timeWeek": 213,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 423,
-    "timeWeek": 293,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "time": 263,
+    "timeDay": 73,
+    "timeWeek": 234,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 457,
-    "timeWeek": 289,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "time": 261,
+    "timeDay": 87,
+    "timeWeek": 223,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 428,
-    "timeWeek": 337,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "time": 261,
+    "timeDay": 74,
+    "timeWeek": 280,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
