@@ -60,9 +60,9 @@
     "url": "https://api.educup.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.educup.io.ico",
     "slug": "educ-up-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 247,
     "timeMonth": 192,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-19": 0
+    }
   },
   {
     "name": "EducUp Tutors API",
