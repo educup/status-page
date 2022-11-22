@@ -42,19 +42,19 @@
     "url": "https://apps.educup.io",
     "icon": "https://icons.duckduckgo.com/ip3/apps.educup.io.ico",
     "slug": "educ-up-apps",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 520,
     "timeDay": 301,
     "timeWeek": 382,
     "timeMonth": 400,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2022-11-22": 8
+      "2022-11-22": 0
     }
   },
   {
