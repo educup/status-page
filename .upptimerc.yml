@@ -14,8 +14,6 @@ sites:
     url: https://apps.educup.io
   - name: EducUp API 
     url: https://api.educup.io/health
-  - name: EducUp Tutors API 
-    url: https://tutorsapi.educup.io/health
   - name: EducUp Studio API 
     url: https://studioapi.educup.io/health
   - name: EducUp Extenal API
