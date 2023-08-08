@@ -4,18 +4,20 @@
     "url": "https://www.educup.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.educup.com.ico",
     "slug": "educ-up-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 411,
-    "timeWeek": 291,
-    "timeMonth": 247,
+    "timeDay": 344,
+    "timeWeek": 290,
+    "timeMonth": 248,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "EducUp Admin",
