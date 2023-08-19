@@ -10,8 +10,6 @@ sites:
     url: https://www.educup.com
   - name: EducUp Admin
     url: https://admin.educup.io
-  - name: EducUp Apps
-    url: https://apps.educup.io
   - name: EducUp API 
     url: https://api.educup.io/health
   - name: EducUp Studio API 
